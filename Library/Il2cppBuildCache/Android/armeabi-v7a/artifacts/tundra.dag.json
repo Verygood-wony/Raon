@@ -1,0 +1,159 @@
+{
+  "Nodes": [
+    {
+      "Annotation": "all_tundra_nodes",
+      "Action": "",
+      "Inputs": [],
+      "Outputs": [],
+      "TargetDirectories": [],
+      "PassIndex": 0,
+      "ToBuildDependencies": [
+        1
+      ],
+      "ToUseDependencies": [],
+      "OverwriteOutputs": true,
+      "FrontendResponseFiles": [],
+      "AllowUnexpectedOutput": true,
+      "AllowedOutputSubstrings": [],
+      "DebugActionIndex": 0
+    },
+    {
+      "Annotation": "Il2Cpp D:/Project/2021.11.01(2)/Library/Il2cppBuildCache/Android/armeabi-v7a/Native/armeabi-v7a/libil2cpp.so",
+      "Action": "\"C:\\Program Files\\Unity\\Hub\\Editor\\2020.3.19f1\\Editor\\Data\\il2cpp/build/deploy/netcoreapp3.1/il2cpp.exe\" --convert-to-cpp --emit-null-checks --enable-array-bounds-check --dotnetprofile=\"unityaot\" --compile-cpp --libil2cpp-static --platform=\"Android\" --architecture=\"ARMv7\" --configuration=\"Release\" --outputpath=\"D:\\Project\\2021.11.01(2)\\Library\\Il2cppBuildCache\\Android\\armeabi-v7a\\Native\\armeabi-v7a\\libil2cpp.so\" --cachedirectory=\"D:\\Project\\2021.11.01(2)\\Assets\\..\\Library\\il2cpp_android_armeabi-v7a/il2cpp_cache\" --additional-include-directories=\"C:/Program Files/Unity/Hub/Editor/2020.3.19f1/Editor/Data/PlaybackEngines/AndroidPlayer/Tools\\bdwgc/include\" --additional-include-directories=\"C:/Program Files/Unity/Hub/Editor/2020.3.19f1/Editor/Data/PlaybackEngines/AndroidPlayer/Tools\\libil2cpp/include\" --baselib-directory=\"C:/Program Files/Unity/Hub/Editor/2020.3.19f1/Editor/Data/PlaybackEngines/AndroidPlayer\\Variations\\il2cpp\\Release\\StaticLibs\\armeabi-v7a\" --avoid-dynamic-library-copy --tool-chain-path=\"C:/Program Files/Unity/Hub/Editor/2020.3.19f1/Editor/Data/PlaybackEngines/AndroidPlayer/NDK\" --incremental-g-c-time-slice=3 --profiler-report --map-file-parser=\"C:/Program Files/Unity/Hub/Editor/2020.3.19f1/Editor/Data/Tools/MapFileParser/MapFileParser.exe\" --directory=\"D:/Project/2021.11.01(2)/Temp/StagingArea/assets/bin/Data/Managed\" --generatedcppdir=\"D:/Project/2021.11.01(2)/Library/Il2cppBuildCache/Android/armeabi-v7a/il2cppOutput\"",
+      "Inputs": [
+        "D:/Project/2021.11.01(2)/Temp/StagingArea/assets/bin/Data/Managed",
+        "D:/Project/2021.11.01(2)/Temp/StagingArea/assets/bin/Data/Managed/Assembly-CSharp.dll",
+        "D:/Project/2021.11.01(2)/Temp/StagingArea/assets/bin/Data/Managed/Cinemachine.dll",
+        "D:/Project/2021.11.01(2)/Temp/StagingArea/assets/bin/Data/Managed/Mono.Security.dll",
+        "D:/Project/2021.11.01(2)/Temp/StagingArea/assets/bin/Data/Managed/mscorlib.dll",
+        "D:/Project/2021.11.01(2)/Temp/StagingArea/assets/bin/Data/Managed/NavMeshComponents.dll",
+        "D:/Project/2021.11.01(2)/Temp/StagingArea/assets/bin/Data/Managed/SimpleSFXRuntime.dll",
+        "D:/Project/2021.11.01(2)/Temp/StagingArea/assets/bin/Data/Managed/Skybox3DRuntime.dll",
+        "D:/Project/2021.11.01(2)/Temp/StagingArea/assets/bin/Data/Managed/System.Configuration.dll",
+        "D:/Project/2021.11.01(2)/Temp/StagingArea/assets/bin/Data/Managed/System.Core.dll",
+        "D:/Project/2021.11.01(2)/Temp/StagingArea/assets/bin/Data/Managed/System.dll",
+        "D:/Project/2021.11.01(2)/Temp/StagingArea/assets/bin/Data/Managed/System.Xml.dll",
+        "D:/Project/2021.11.01(2)/Temp/StagingArea/assets/bin/Data/Managed/Unity.InputSystem.dll",
+        "D:/Project/2021.11.01(2)/Temp/StagingArea/assets/bin/Data/Managed/Unity.Polybrush.dll",
+        "D:/Project/2021.11.01(2)/Temp/StagingArea/assets/bin/Data/Managed/Unity.Postprocessing.Runtime.dll",
+        "D:/Project/2021.11.01(2)/Temp/StagingArea/assets/bin/Data/Managed/Unity.TextMeshPro.dll",
+        "D:/Project/2021.11.01(2)/Temp/StagingArea/assets/bin/Data/Managed/Unity.Timeline.dll",
+        "D:/Project/2021.11.01(2)/Temp/StagingArea/assets/bin/Data/Managed/Unity.XR.Interaction.Toolkit.dll",
+        "D:/Project/2021.11.01(2)/Temp/StagingArea/assets/bin/Data/Managed/Unity.XR.Management.dll",
+        "D:/Project/2021.11.01(2)/Temp/StagingArea/assets/bin/Data/Managed/Unity.XR.Oculus.dll",
+        "D:/Project/2021.11.01(2)/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.AIModule.dll",
+        "D:/Project/2021.11.01(2)/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.AndroidJNIModule.dll",
+        "D:/Project/2021.11.01(2)/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.AnimationModule.dll",
+        "D:/Project/2021.11.01(2)/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.ARModule.dll",
+        "D:/Project/2021.11.01(2)/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.AudioModule.dll",
+        "D:/Project/2021.11.01(2)/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.CoreModule.dll",
+        "D:/Project/2021.11.01(2)/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.DirectorModule.dll",
+        "D:/Project/2021.11.01(2)/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.dll",
+        "D:/Project/2021.11.01(2)/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.GridModule.dll",
+        "D:/Project/2021.11.01(2)/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.ImageConversionModule.dll",
+        "D:/Project/2021.11.01(2)/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.IMGUIModule.dll",
+        "D:/Project/2021.11.01(2)/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.InputLegacyModule.dll",
+        "D:/Project/2021.11.01(2)/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.InputModule.dll",
+        "D:/Project/2021.11.01(2)/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.JSONSerializeModule.dll",
+        "D:/Project/2021.11.01(2)/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.ParticleSystemModule.dll",
+        "D:/Project/2021.11.01(2)/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.Physics2DModule.dll",
+        "D:/Project/2021.11.01(2)/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.PhysicsModule.dll",
+        "D:/Project/2021.11.01(2)/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.ScreenCaptureModule.dll",
+        "D:/Project/2021.11.01(2)/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.SharedInternalsModule.dll",
+        "D:/Project/2021.11.01(2)/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.SpatialTracking.dll",
+        "D:/Project/2021.11.01(2)/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.SpriteShapeModule.dll",
+        "D:/Project/2021.11.01(2)/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.SubsystemsModule.dll",
+        "D:/Project/2021.11.01(2)/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.TerrainModule.dll",
+        "D:/Project/2021.11.01(2)/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.TerrainPhysicsModule.dll",
+        "D:/Project/2021.11.01(2)/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.TextCoreModule.dll",
+        "D:/Project/2021.11.01(2)/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.TextRenderingModule.dll",
+        "D:/Project/2021.11.01(2)/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.TilemapModule.dll",
+        "D:/Project/2021.11.01(2)/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.UI.dll",
+        "D:/Project/2021.11.01(2)/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.UIModule.dll",
+        "D:/Project/2021.11.01(2)/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.UnityAnalyticsModule.dll",
+        "D:/Project/2021.11.01(2)/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.UnityWebRequestModule.dll",
+        "D:/Project/2021.11.01(2)/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.VRModule.dll",
+        "D:/Project/2021.11.01(2)/Temp/StagingArea/assets/bin/Data/Managed/UnityEngine.XRModule.dll",
+        "D:/Project/2021.11.01(2)/Temp/StagingArea/assets/bin/Data/Managed/WorldBuildingRuntime.dll",
+        "C:/Program Files/Unity/Hub/Editor/2020.3.19f1/Editor/Data/Tools/MapFileParser/MapFileParser.exe",
+        "C:/Program Files/Unity/Hub/Editor/2020.3.19f1/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/il2cpp/Release/StaticLibs/armeabi-v7a/baselib.a",
+        "C:/Program Files/Unity/Hub/Editor/2020.3.19f1/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/il2cpp/Release/StaticLibs/armeabi-v7a/libunityruntime.a",
+        "\"C:/Program Files/Unity/Hub/Editor/2020.3.19f1/Editor/Data/il2cpp/build/deploy/netcoreapp3.1/il2cpp.exe\""
+      ],
+      "Outputs": [
+        "D:/Project/2021.11.01(2)/Library/Il2cppBuildCache/Android/armeabi-v7a/Native/armeabi-v7a/libil2cpp.so"
+      ],
+      "TargetDirectories": [],
+      "PassIndex": 0,
+      "ToBuildDependencies": [],
+      "ToUseDependencies": [],
+      "OverwriteOutputs": false,
+      "FrontendResponseFiles": [],
+      "AllowUnexpectedOutput": true,
+      "AllowedOutputSubstrings": [],
+      "DebugActionIndex": 1
+    }
+  ],
+  "FileSignatures": [
+    {
+      "File": "../../../../Temp/StagingArea/assets/bin/Data/Managed"
+    },
+    {
+      "File": "artifacts/buildprogram/tundra_buildprogram.dag.json"
+    },
+    {
+      "File": "C:/Program Files/Unity/Hub/Editor/2020.3.19f1/Editor/Data/PlaybackEngines/AndroidPlayer/Tools/bdwgc/include"
+    },
+    {
+      "File": "C:/Program Files/Unity/Hub/Editor/2020.3.19f1/Editor/Data/PlaybackEngines/AndroidPlayer/Tools/libil2cpp/include"
+    },
+    {
+      "File": "C:/Program Files/Unity/Hub/Editor/2020.3.19f1/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/il2cpp/Release/StaticLibs/armeabi-v7a"
+    },
+    {
+      "File": "il2cpp_settings.json"
+    },
+    {
+      "File": "unitylinker_settings.json"
+    }
+  ],
+  "GlobSignatures": [
+    {
+      "Path": "../../../../Temp/StagingArea/assets/bin/Data/Managed"
+    },
+    {
+      "Path": "C:/Program Files/Unity/Hub/Editor/2020.3.19f1/Editor/Data/PlaybackEngines/AndroidPlayer/Variations/il2cpp/Release/StaticLibs/armeabi-v7a",
+      "Recurse": 1
+    }
+  ],
+  "ContentDigestExtensions": [
+    ".rsp",
+    ".dll",
+    ".exe",
+    ".txt",
+    ".c",
+    ".cpp",
+    ".h",
+    ".cs",
+    ".hpp"
+  ],
+  "StructuredLogFileName": "artifacts/tundra.log.json",
+  "StateFileName": "artifacts/TundraBuildState.state",
+  "StateFileNameTmp": "artifacts/TundraBuildState.state.tmp",
+  "ScanCacheFileName": "artifacts/tundra.scancache",
+  "ScanCacheFileNameTmp": "artifacts/tundra.scancache.tmp",
+  "DigestCacheFileName": "artifacts/tundra.digestcache",
+  "DigestCacheFileNameTmp": "artifacts/tundra.digestcache.tmp",
+  "DirectoriesCausingImplicitDependencies": [],
+        "NamedNodes": {
+          "all_tundra_nodes": 0
+        }
+,  "DefaultNodes": [
+    0
+  ],
+  "SharedResources": [],
+  "Scanners": [],
+  "Identifier": "artifacts/tundra.dag.json",
+  "BuildTitle": "Bee",
+  "RelativePathToRoot": ".."
+}
