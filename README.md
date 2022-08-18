@@ -4,6 +4,7 @@
 
 한 두 문단으로 프로젝트 소개 글을 작성합니다.
 
+아래 이미지를 클릭하시면 플레이 영상이 재생됩니다.
 [![Video Label](http://img.youtube.com/vi/OM1x0wkg4QQ/0.jpg)](https://youtu.be/OM1x0wkg4QQ)
 
 ## 설치 방법
