@@ -10,7 +10,7 @@
 
 ## 설치 방법
 
-OS X & 리눅스:
+Oculus Quest2:
 
 ```sh
 npm install my-crazy-module --save
