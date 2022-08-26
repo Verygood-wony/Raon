@@ -12,7 +12,7 @@ Oculus Quest2 기기를 타겟으로 제작한 Unity 플랫폼 기반 VR 블록 
 Oculus Quest2:
 
 ```sh
-npm install my-crazy-module --save
+알 수 없는 
 ```
 
 윈도우:
