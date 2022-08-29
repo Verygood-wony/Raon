@@ -12,7 +12,7 @@ Oculus Quest2 기기를 타겟으로 제작한 Unity 플랫폼 기반 VR 블록 
 Oculus Quest2:
 
 ```sh
-알 수 없는 
+알 수 없는 출처의 앱에서 Raon.apk를 설치합니다.
 ```
 
 윈도우:
