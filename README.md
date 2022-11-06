@@ -1,4 +1,4 @@
-# 프로젝트명
+# Raon
 > VR 기반 블록 게임 
 
 Oculus Quest2 기기를 타겟으로 제작한 Unity 플랫폼 기반 VR 블록 게임입니다.
