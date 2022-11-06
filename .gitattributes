@@ -1,2 +1,12 @@
-demo/** linguist-documentation=false
-demo/** linguist-vendored=false
+Assets/** linguist-documentation=false
+Assets/** linguist-vendored=false
+Library/** linguist-documentation=false
+Library/** linguist-vendored=false
+Logs/** linguist-documentation=false
+Logs/** linguist-vendored=false
+Packages/** linguist-documentation=false
+Packages/** linguist-vendored=false
+ProjectSettings/** linguist-documentation=false
+ProjectSettings/** linguist-vendored=false
+UserSettings/** linguist-documentation=false
+UserSettings/** linguist-vendored=false
