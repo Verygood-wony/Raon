@@ -1,0 +1,7 @@
+Assets/** linguist-vendored
+Library/** linguist-vendored
+Logs/** linguist-vendored
+Packages/** linguist-vendored
+ProjectSettings/** linguist-vendored
+UserSettings/** linguist-vendored
+Script_bak/** linguist-vendored=false
