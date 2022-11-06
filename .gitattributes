@@ -5,3 +5,4 @@ Packages/** linguist-vendored
 ProjectSettings/** linguist-vendored
 UserSettings/** linguist-vendored
 Script_bak/** linguist-vendored=false
+Script_bak/** linguist-documentation=false
